@@ -1,6 +1,6 @@
 # Digital Payments Transaction Intelligence Platform — Executive Summary
 
-**Prepared by:** [Your Name]
+**Prepared by:** Surajit Sutradhar
 **Dataset:** UPI Transactions 2024 (250,000 transactions, synthetic)
 **Period covered:** January 1, 2024 – December 30, 2024
 
